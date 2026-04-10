@@ -6,8 +6,7 @@
 
 * 🚀 **Currently:** Scaling enterprise workflows as an **Odoo Technical Intern** at **PT Xapiens Teknologi Indonesia**.
 * 🛠️ **Expertise:** Deeply focused on **Python (Odoo)** and **PHP (Laravel)** for robust backend logic and seamless frontend integration.
-* 🧠 **R&D:** Bridging ERP with Security through my thesis on **ML-based Ransomware Detection** using **LSTM** and **XGBoost**.
-* 🛡️ **Certified:** Strengthening system reliability with **HCIA-Security**, **AI**, and **openGauss** certifications.
+* 🛡️ **Certified:** Strengthening system reliability with **HCIA-Security** and **openGauss** Database certifications.
 * 🔭 **Goal:** Building efficient, clean-coded software that solves real-world enterprise challenges.
 
 ## 🌐 Socials:
@@ -16,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lumenondenzel@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
 
@@ -33,4 +32,6 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=denjelll&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=denjelll&icon=0&color=0" alt="Visit Count" />
+</p>
