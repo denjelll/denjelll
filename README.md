@@ -1,13 +1,15 @@
-# 💫 About Me:
+## About Me
 
-### 👋 Hi, I'm Denzel!
+### Hi, I'm Denzel!
 
-**Informatics Student & Fullstack Developer** specializing in **Enterprise Solutions (ERP)**. I am passionate about transforming complex business requirements into scalable, high-performance digital systems.
+**Informatics Student | Software Quality Assurance | Digital Solutions**
 
-* 🚀 **Currently:** Scaling enterprise workflows as an **Odoo Technical Intern** at **PT Xapiens Teknologi Indonesia**.
-* 🛠️ **Expertise:** Deeply focused on **Python (Odoo)** and **PHP (Laravel)** for robust backend logic and seamless frontend integration.
-* 🛡️ **Certified:** Strengthening system reliability with **HCIA-Security** and **openGauss** Database certifications.
-* 🔭 **Goal:** Building efficient, clean-coded software that solves real-world enterprise challenges.
+I'm an Informatics student at **Universitas Multimedia Nusantara** with a background in software development and enterprise application solutions. I have experience across software quality assurance, UI/UX design, and application development, with a focus on building reliable and effective digital solutions.
+
+- **Currently:** Quality Assurance (QA) & UI/UX Intern at **Bank Indonesia**, contributing to software testing, quality assurance, and user interface improvements.
+- **Professional Experience:** Enterprise application development using **Python, Odoo, PHP, and Laravel**.
+- **Areas of Interest:** Software Quality Assurance, UI/UX Design, Enterprise Solutions (ERP), and Digital Transformation.
+- **Career Focus:** Applying technical knowledge and analytical problem-solving to improve software quality, business processes, and digital user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-lumenon-b0056a28a/) 
